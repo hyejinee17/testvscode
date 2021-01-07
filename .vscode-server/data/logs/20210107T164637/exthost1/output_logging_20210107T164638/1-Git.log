@@ -20,3 +20,5 @@ Omit --global to set the identity only in this repository.
 fatal: no email was given and auto-detection is disabled
 > git config --get-all user.name
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
+> git add -A -- .
