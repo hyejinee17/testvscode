@@ -22,3 +22,6 @@ fatal: no email was given and auto-detection is disabled
 > git add -A -- .
 > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
+> git check-ignore -v -z --stdin
+> git add -A -- .
