@@ -1,0 +1,170 @@
+User belongs to experiment group 'AlwaysDisplayTestExplorer - experiment'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - enabled'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'DeprecatePythonPath - control'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJoinMailingListVar1'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+Error 2021-01-07 15:58:37: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu/home/hyejin/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/hyejin/.config/Code/User/settings.json')
+	at _handleError (/home/hyejin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:262389)
+	at async p.doesFileNeedToBeFixed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:489303)
+	at async /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488430
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488376)
+	at async p.updateTestSettings (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488003)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2021-01-07 15:58:37: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu/home/hyejin/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/hyejin/.vscode/settings.json')
+	at _handleError (/home/hyejin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async y.readText (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:262389)
+	at async p.doesFileNeedToBeFixed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:489303)
+	at async /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488430
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488376)
+	at async p.updateTestSettings (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:488003)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Microsoft Python language server.
+Error 2021-01-07 15:58:52: Failed to get analysis options, Class name = u, completed in 1ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:35520)
+	at f.getAnalysisOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:273787)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at f.r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.startLanguageServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:53073)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.l.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:9910)
+	at r.start (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:52291)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-01-07 15:58:52: Starting language server, Class name = r, completed in 3ms, has a falsy return value, , Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:35520)
+	at f.getAnalysisOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:273787)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at f.r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.startLanguageServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:53073)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.l.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:9910)
+	at r.start (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:52291)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-01-07 15:58:52: Failed to start language server, Class name = r, completed in 11ms, has a falsy return value, Arg 1: <Uri:/home/hyejin>, Arg 2: undefined, Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:35520)
+	at f.getAnalysisOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:273787)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at f.r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.startLanguageServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:53073)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.l.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:9910)
+	at r.start (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:52291)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-01-07 15:58:52: Failed to activate language server, Class name = a, completed in 14429ms, has a falsy return value, Arg 1: <Uri:/home/hyejin>, Arg 2: undefined, Return Value: undefined [Error: did not find an active interpreter
+	at f.getInitializationOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:35520)
+	at f.getAnalysisOptions (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:9:273787)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at f.r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.startLanguageServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:53073)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64455
+	at Object.t.tracing (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:50143)
+	at r.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:64431)
+	at r.l.value (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:1:9910)
+	at r.start (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:52291)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+We encountered an issue starting the language server. Reverting to Jedi language engine. Check the Python output panel for details.
+Error 2021-01-07 15:58:52: Failed to activate a workspace, Class name = y, completed in 15537ms, has a falsy return value, Arg 1: <Uri:/home/hyejin>, Return Value: undefined [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261020
+	at m (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261317)
+	at e (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261808)
+	at Object.t.plan (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:262471)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259125
+	at e._get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259034)
+	at e.getTagged (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257836)
+	at e.getNamed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257928)
+	at a.get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:928684)
+	at _.createRefCountedServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:52:31036)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-01-07 15:58:52: Failure during activation. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261020
+	at m (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261317)
+	at e (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261808)
+	at Object.t.plan (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:262471)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259125
+	at e._get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259034)
+	at e.getTagged (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257836)
+	at e.getNamed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257928)
+	at a.get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:928684)
+	at _.createRefCountedServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:52:31036)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+Error 2021-01-07 15:58:52: sendStartupTelemetry() failed. [Error: No matching bindings found for serviceIdentifier: Symbol(ILanguageServerActivator)
+ Symbol(ILanguageServerActivator) - named: Jedi 
+
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261020
+	at m (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261317)
+	at e (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:261808)
+	at Object.t.plan (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:262471)
+	at /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259125
+	at e._get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:259034)
+	at e.getTagged (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257836)
+	at e.getNamed (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:44:257928)
+	at a.get (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:59:928684)
+	at _.createRefCountedServer (/home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561/out/client/extension.js:52:31036)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)]
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> C:\ProgramData\Anaconda3\python.exe ~/.vscode-server/extensions/ms-python.python-2020.12.424452561/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"

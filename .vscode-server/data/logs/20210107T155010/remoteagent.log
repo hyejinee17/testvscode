@@ -1,0 +1,38 @@
+[2021-01-07 15:50:11.078] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-07 15:50:11.078] [remoteagent] [info] Extension host agent started.
+[2021-01-07 15:50:11.084] [remoteagent] [info] [::ffff:127.0.0.1][562eda39][ManagementConnection] New connection established.
+[2021-01-07 15:50:11.085] [remoteagent] [info] [::ffff:127.0.0.1][ab7bbae3][ExtensionHostConnection] New connection established.
+[2021-01-07 15:50:11.103] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-07 15:50:11.118] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/hyejin/.vscode'
+[2021-01-07 15:50:11.237] [remoteagent] [info] [::ffff:127.0.0.1][ab7bbae3][ExtensionHostConnection] <12786> Launched Extension Host Process.
+[2021-01-07 15:58:21.226] [remoteagent] [info] Installing extension: ms-python.python
+[2021-01-07 15:58:23.894] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2021-01-07 15:58:26.245] [remoteagent] [info] Extracted extension to /home/hyejin/.vscode-server/extensions/.ms-python.python-2020.12.424452561: ms-python.python
+[2021-01-07 15:58:27.059] [remoteagent] [info] Renamed to /home/hyejin/.vscode-server/extensions/ms-python.python-2020.12.424452561
+[2021-01-07 15:58:27.064] [remoteagent] [info] Installation completed. ms-python.python
+[2021-01-07 15:58:27.912] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-01-07 15:58:32.096] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2021-01-07 15:58:32.799] [remoteagent] [info] Extracted extension to /home/hyejin/.vscode-server/extensions/.ms-toolsai.jupyter-2020.12.414227025: ms-toolsai.jupyter
+[2021-01-07 15:58:33.072] [remoteagent] [info] Renamed to /home/hyejin/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2021-01-07 15:58:33.076] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2021-01-07 15:58:33.084] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-01-07 15:58:33.086] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2021-01-07 16:15:40.700] [remoteagent] [info] [::ffff:127.0.0.1][562eda39][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-07 16:15:41.729] [remoteagent] [info] [::ffff:127.0.0.1][ab7bbae3][ExtensionHostConnection] <12786> Extension Host Process exited with code: 0, signal: null.
+[2021-01-07 16:15:44.941] [remoteagent] [info] [::ffff:127.0.0.1][fc25987b][ManagementConnection] New connection established.
+[2021-01-07 16:15:44.942] [remoteagent] [info] [::ffff:127.0.0.1][7afed49b][ExtensionHostConnection] New connection established.
+[2021-01-07 16:15:44.953] [remoteagent] [info] [::ffff:127.0.0.1][7afed49b][ExtensionHostConnection] <20845> Launched Extension Host Process.
+[2021-01-07 16:15:44.957] [remoteagent] [info] Listing 1 persistent terminals, 1 total terminals
+[2021-01-07 16:15:44.973] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/hyejin/.vscode'
+[2021-01-07 16:15:45.024] [remoteagent] [info] Replaying 2155 chars and 2 size events.
+[2021-01-07 16:17:08.435] [remoteagent] [info] [::ffff:127.0.0.1][fc25987b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-01-07 16:17:09.449] [remoteagent] [info] [::ffff:127.0.0.1][7afed49b][ExtensionHostConnection] <20845> Extension Host Process exited with code: 0, signal: null.

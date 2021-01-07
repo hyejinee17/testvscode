@@ -1,0 +1,16 @@
+[2021-01-07 16:17:19.168] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-01-07 16:17:19.168] [remoteagent] [info] Extension host agent started.
+[2021-01-07 16:17:19.347] [remoteagent] [info] [::ffff:127.0.0.1][35d78960][ManagementConnection] New connection established.
+[2021-01-07 16:17:19.348] [remoteagent] [info] [::ffff:127.0.0.1][c93b8d8f][ExtensionHostConnection] New connection established.
+[2021-01-07 16:17:19.372] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2021-01-07 16:17:19.389] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/hyejin/.vscode'
+[2021-01-07 16:17:19.525] [remoteagent] [info] [::ffff:127.0.0.1][c93b8d8f][ExtensionHostConnection] <21073> Launched Extension Host Process.
