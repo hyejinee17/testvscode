@@ -85,3 +85,15 @@ python testcode.py
 cd test1
 alias python='python3'
 python testcode.py
+git config --get-all user.name "hyejin"
+git config --glober user.name "hyejin"
+git config --global user.name "hyejin"
+git config --global user.email "hyejinlee@unist.ac.kr"
+git config --glober user.name "hyejin"
+git config --global user.name "hyejin"
+git config --global user.email "hyejinlee@unist.ac.kr"
+git config --global user.name "hyejinee17"
+git remote add origin https://github.com/hyejinee17/testvscode.git
+git branch -M main
+git push -u origin main
+git push -u origin master

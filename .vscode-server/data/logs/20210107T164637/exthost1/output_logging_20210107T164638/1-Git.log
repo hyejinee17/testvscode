@@ -25,3 +25,5 @@ fatal: no email was given and auto-detection is disabled
 > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
 > git check-ignore -v -z --stdin
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - --allow-empty
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n36 -- /home/hyejin/test1/testcode.py
